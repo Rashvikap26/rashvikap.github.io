@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Rashvika Ponduri",
-  profile: '/',
+  profile: '/photo.jpeg',
   designation: "Java Developer",
   description: "My name is Rashvika Ponduri. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on Java and I love to do most of the things using Java. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'rashi.p1930@gmail.com',
