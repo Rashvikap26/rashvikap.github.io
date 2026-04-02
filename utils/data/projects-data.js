@@ -17,7 +17,7 @@ export const projectsData = [
       'Spring Batch',
       'REST APIs',
       'gRPC',
-      'TypeScript',
+      'React Native',
       'Apache Kafka',
       'IBM MQ',
       'Oracle',
