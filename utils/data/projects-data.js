@@ -66,7 +66,7 @@ export const projectsData = [
       'Spring Security',
       'REST APIs',
       'GraphQL',
-      'JavaScript',
+      'React Native',
       'Kafka',
       'Hibernate',
       'JPA',
