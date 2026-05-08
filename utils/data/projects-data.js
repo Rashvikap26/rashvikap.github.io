@@ -7,8 +7,7 @@ export const projectsData = [
   {
     id: 1,
     name: 'Credit Risk Decisioning & Customer Scoring Platform',
-    description:
-      'Built a scalable credit risk decisioning and customer scoring platform for banking applications to evaluate customer profiles, process account and risk-related data, validate decision rules, and support downstream banking integrations. Developed secure Spring Boot microservices and real-time UI flows to improve score evaluation, decision visibility, reason-code tracking, and operational support across enterprise banking systems.',
+    description: 'Built a scalable credit risk decisioning and customer scoring platform for banking applications to evaluate customer profiles, process account and risk-related data, validate decision rules, and support downstream banking integrations. Developed secure Spring Boot microservices and real-time UI flows to improve score evaluation, decision visibility, reason-code tracking, and operational support across enterprise banking systems.',
     techStack: [
       'Java 17',
       'Spring Boot',
