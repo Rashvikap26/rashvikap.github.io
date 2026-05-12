@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "SeniorJava Developer",
+    title: "Senior Java Developer",
     company: "Express Scripts",
     duration: "(Jul 2024 - May 2025)"
   },
